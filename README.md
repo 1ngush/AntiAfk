@@ -1,0 +1,2 @@
+# AntiAfk
+SCP:SL AntiAfk
